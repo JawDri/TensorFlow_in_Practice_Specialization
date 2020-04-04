@@ -1,0 +1,1 @@
+Last week we saw how to improve the results from your deep neural network using convolutions. It was a good start, but the data we used was very basic. What happens when our images are larger, or if the features aren’t always in the same place? Andrew and Laurence discuss this to prepare us for what we’ll learn this week: handling complex images!
