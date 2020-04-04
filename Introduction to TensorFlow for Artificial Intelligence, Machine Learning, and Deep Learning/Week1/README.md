@@ -1,1 +1,1 @@
-
+In week 1 we'll get a soft introduction to what Machine Learning and Deep Learning are, and how they offer you a new programming paradigm, giving you a new set of tools to open previously unexplored scenarios. All we need to know is some very basic programming skills, and we'll pick the rest up as you go along. we'll be working with code that works well across both TensorFlow 1.x and the TensorFlow 2.0 alpha.
