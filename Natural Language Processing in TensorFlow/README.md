@@ -1,1 +1,1 @@
-
+In Course 3 of the deeplearning.ai TensorFlow Specialization, we will build natural language processing systems using TensorFlow. We will learn to process text, including tokenizing and representing sentences as vectors, so that they can be input to a neural network. We’ll also learn to apply RNNs, GRUs, and LSTMs in TensorFlow. Finally, we’ll get to train an  LSTM on existing text to create original poetry!
