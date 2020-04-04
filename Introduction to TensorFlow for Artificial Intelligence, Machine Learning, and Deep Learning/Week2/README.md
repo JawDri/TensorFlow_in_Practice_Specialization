@@ -1,0 +1,1 @@
+This week we’re going to take that to the next level by beginning to solve problems of computer vision with just a few lines of code! Check out this conversation between Laurence and Andrew where they discuss it and introduce us to Computer Vision!
