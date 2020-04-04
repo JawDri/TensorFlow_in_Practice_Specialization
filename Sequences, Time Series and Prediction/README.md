@@ -1,0 +1,1 @@
+In this fourth course, we will learn how to build time series models in TensorFlow. We’ll first implement best practices to prepare time series data. We’ll also explore how RNNs and 1D ConvNets can be used for prediction. Finally, we’ll apply everything you’ve learned throughout the Specialization to build a sunspot prediction model using real-world data!
